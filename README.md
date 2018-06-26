@@ -18,8 +18,8 @@ Ubuntu 16.04.4 LTS
 + pandas 0.22.0
 + tensorflow-gpu 1.8.0
 
-## 关于运行时长 - 在项目一开始, 直接使用CNN进行数据拟合的过程, 耗费将近10分钟.
-- 使用Xception对特征向量导出, 此处过程耗费近5分钟.
-- 使用Xception导出的特征向量对数据进行拟合, 此处将耗费近0.5分钟.
-关于运行状态截图
-已导出所有执行过程与结果, 详见附件Dogs_vs_Cats.html
+## 训练时长
++ 用InceptionV3特征向量导出耗时将近10分钟
++ 用InceptionV3导出的特征向量训练模型每10Epochs耗时将近半分钟
+*运行状态截图*
+参见Dogs_vs_Cats.html内的运行状态记录
