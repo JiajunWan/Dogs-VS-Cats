@@ -21,5 +21,6 @@ Ubuntu 16.04.4 LTS
 ## 训练时长
 + 用InceptionV3特征向量导出耗时将近10分钟
 + 用InceptionV3导出的特征向量训练模型每10Epochs耗时将近半分钟
-*运行状态截图*
-参见Dogs_vs_Cats.html内的运行状态记录
+
+**运行状态截图**
+参见Dogs-VS-Cats.html内的运行状态记录
