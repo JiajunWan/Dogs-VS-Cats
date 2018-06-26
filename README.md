@@ -1,6 +1,6 @@
 # Dogs-VS-Cats
 
-此项目在FloydHub上完成, 配置为:
+* 此项目在FloydHub上完成, 配置为:
 2 Core Intel Xeon CPUs
 8G RAM
 100G SSD DISK
